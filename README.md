@@ -20,6 +20,27 @@ PostgreSQL Database (Docker)
 
 --------------------------------------------------
 
+## API Analytics Documentation
+
+FastAPI auatomatically has generates interactive API documentatiom to create and view customers and also analysis column beneath
+![API Docs](images/Cust%20Analytics%20API%20ss.png)
+
+---------------------------------------------------
+
+## Engagement Analysis Summary
+
+Example engagment summary when clicked execute on FastAPI before the analyis can be viewed
+![Before Execution](images/Eng%20summary%20execution.png)
+
+---------------------------------------------------
+
+## Analaysis Results
+
+Analysis of Engagement summary of customer data created using Faker
+![Analysis Results](images/Engagement%20summary.png)
+
+---------------------------------------------------
+
 ## Tech Stack
 
 Backend Framework
