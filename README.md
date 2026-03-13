@@ -68,7 +68,7 @@ Data Simulation
 --------------------------------------------------
 
 ## Project Structure
-
+```
 customer-analytics-api
 
 app
@@ -98,7 +98,7 @@ scripts
 docker-compose.yml
 requirements.txt
 README.md
-
+```
 --------------------------------------------------
 
 ## Setup Instructions
